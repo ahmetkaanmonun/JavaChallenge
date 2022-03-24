@@ -13,8 +13,8 @@ Learning from Tim Buchalka's Udemy Course.
 
 ### [Day 2](https://github.com/ahmetkaanmonun/JavaChallenge/tree/master/Day2)
 
-- [MethodOverloading](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day2/MethodOverloading/src/com/ahmetkaanmonun/Main.java)
 - [Methods](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day2/Methods/src/com/ahmetkaanmonun/Main.java)
+- [MethodOverloading](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day2/MethodOverloading/src/com/ahmetkaanmonun/Main.java)
 - [Area Calculator](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day2/Area%20Calculator/src/com/ahmetkaanmonun/Main.java)
 - [Barking Dog](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day2/Barking%20Dog/src/com/ahmetkaanmonun/Main.java)
 - [Decimal Comparator](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day2/Decimal%20Comparator/src/com/ahmetkaanmonun/Main.java)
