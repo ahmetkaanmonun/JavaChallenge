@@ -29,4 +29,4 @@ Learning from Tim Buchalka's Udemy Course.
 - [TeenNumber Checker](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day2/TeenNumber%20Checker/src/com/ahmetkaanmonun/Main.java)
 
 
-<span style="color:red">Hello</span>
+
