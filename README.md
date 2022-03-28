@@ -29,4 +29,29 @@ Learning from Tim Buchalka's Udemy Course.
 - [TeenNumber Checker](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day2/TeenNumber%20Checker/src/com/ahmetkaanmonun/Main.java)
 
 
+### [Day 3](https://github.com/ahmetkaanmonun/JavaChallenge/tree/master/Day3)
+
+- [Switch](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/Switch/src/com/ahmetkaanmonun/Main.java)
+- [AllFactors](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/AllFactors/src/com/ahmetkaanmonun/Main.java)
+- [DayOfTheWeekChallenge](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/DayOfTheWeekChallenge/src/com/ahmetkaanmonun/Main.java)
+- [DiagonalStars](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/DiagonalStars/src/com/ahmetkaanmonun/Main.java)
+- [DigitSumChallenge](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/DigitSumChallenge/src/com/ahmetkaanmonun/Main.java)
+- [EventDigitSum](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/EventDigitSum/src/com/ahmetkaanmonun/Main.java)
+- [FirstAndLastDigitSum](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/FirstAndLastDigitSum/src/com/ahmetkaanmonun/Main.java)
+- [FlourPackProblem](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/FlourPackProblem/src/com/ahmetkaanmonun/Main.java)
+- [GreatestCommonDivisor](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/GreatestCommonDivisor/src/com/ahmetkaanmonun/Main.java)
+- [LargestPrime](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/LargestPrime/src/com/ahmetkaanmonun/Main.java)
+- [LastDigitChecker](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/LastDigitChecker/src/com/ahmetkaanmonun/Main.java)
+- [NumberInWord](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/NumberInWord/src/com/ahmetkaanmonun/Main.java)
+- [NumberOfDaysInMonth](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/NumberOfDaysInMonth/src/com/ahmetkaanmonun/Main.java)
+- [NumberPalindrome](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/NumberPalindrome/src/com/ahmetkaanmonun/Main.java)
+- [NumberToWords](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/NumberToWords/src/com/ahmetkaanmonun/Main.java)
+- [ParsingString](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/ParsingString/src/com/ahmetkaanmonun/Main.java)
+- [PerfectNumber](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/PerfectNumber/src/com/ahmetkaanmonun/Main.java)
+- [ReadingUserInputChallenge](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/ReadingUserInputChallenge/src/com/ahmetkaanmonun/Main.java)
+- [SharedDigit](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/SharedDigit/src/com/ahmetkaanmonun/Main.java)
+- [Sum3And5Challenge](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/Sum3And5Challenge/src/com/ahmetkaanmonun/Main.java)
+- [SumOdd](https://github.com/ahmetkaanmonun/JavaChallenge/blob/master/Day%203/SumOdd/src/com/ahmetkaanmonun/Main.java)
+
+
 
